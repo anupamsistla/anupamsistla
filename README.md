@@ -4,7 +4,7 @@ I'm a recent Computer Science graduate from the University of Illinois Chicago (
 
 I enjoy building and shipping software that real teams and customers use. I've worked across full stack web applications, REST APIs, CI/CD pipelines, automated testing, and cloud deployments, using Python, Java, TypeScript, C++, and SQL, along with React, Next.js, Spring Boot, Flask, Docker, Jenkins, and AWS.
 
-I'm especially interested in B2B product engineering, full stack development, cloud platforms, and applied machine learning. I like roles where I can own features end to end and work closely with other engineers to ship reliable, production-ready systems.
+I'm especially interested in full stack development, backend development, infrastructure engineering, and applied machine learning. I like roles where I can own features end to end and work closely with other engineers to ship reliable, production-ready systems.
 
 ---
 
@@ -13,6 +13,7 @@ I'm especially interested in B2B product engineering, full stack development, cl
 As one of four engineers on the team, I took a Chrome extension from proof of concept to general availability. The extension integrates with Protegrity's cloud data encryption service to give users policy-based access to sensitive data (PII, PHI) directly on the webpages they work in.
 
 - Owned front-end features, turning UI/UX specs and PM requirements into production **React** and **TypeScript** code
+- Integrated a proprietary machine learning model that identifies PII data types by parsing webpage DOM nodes, highlighting detected data in the browser with color coding by classification
 - Built a **Jenkins** CI/CD pipeline that runs unit tests, code-quality checks (**SonarQube**), and security scans (**JFrog Xray**) before publishing to an artifact registry
 - Wrote a **Pytest** and **Selenium** end-to-end suite covering 11 critical user workflows, catching bugs before they reached customers
 
@@ -24,28 +25,28 @@ This Chrome extension is now used by large enterprises like Blue Cross Blue Shie
 
 ---
 
-## Selected Projects
+## Projects
 
 ### MedTrack
-A full stack medication management platform that brings dose scheduling, adherence tracking, and prescription inventory together in one place, with a RAG assistant for source-grounded answers about your own health records.
+A full stack medication management platform that brings dose scheduling, adherence tracking, and document storage together in one place, with a RAG assistant for source-grounded answers about your own health records.
 
 `Next.js` `PostgreSQL` `MongoDB` `RAG` `Cron` `Nodemailer`
 
-[Repository](LINK_TO_MEDTRACK_REPO) · [Live Demo](LINK_TO_MEDTRACK_DEMO)
+[Repository](https://github.com/anupamsistla/medicine-adherence-application)
 
 ### Autonomous Debris Clearing Rover
 An AI-driven rover that uses real-time computer vision to detect and clear debris within a set perimeter, controllable from a Flutter mobile app with a live camera feed.
 
 `Python` `Flutter` `OpenCV` `YOLOv3` `GraphQL` `Raspberry Pi`
 
-[Repository](LINK_TO_ROVER_REPO) · [Demo Video](LINK_TO_ROVER_DEMO)
+[Repository](https://github.com/anupamsistla/Autonomous-Rover.git)
 
 ### Restockd
-*One line description coming soon.*
+Food Bank Donation Scheduling Platform connecting donors with local food banks to streamline donation logistics
 
-`TECH_STACK_PLACEHOLDER`
+`Python` `React` `Django` `PostgreSQL` `Supabase`
 
-[Repository](LINK_TO_RESTOCKD_REPO) · [Live Demo](LINK_TO_RESTOCKD_DEMO)
+[Repository](https://github.com/anupamsistla/Restockd-project)
 
 ---
 
