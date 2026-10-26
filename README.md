@@ -1,51 +1,74 @@
-<h1 align="center">Hi there 👋, I'm Anupam</h1>
+# Hi, I'm Anupam 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anupamsistla"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:sistlaanupam@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>
-</p>
+I'm a recent Computer Science graduate from the University of Illinois Chicago (B.S., May 2026, 3.89 GPA), and I'm looking for **Entry Level, Junior, and New Grad Software Engineering opportunities**.
 
----
+I enjoy building and shipping software that real teams and customers use. I've worked across full stack web applications, REST APIs, CI/CD pipelines, automated testing, and cloud deployments, using Python, Java, TypeScript, C++, and SQL, along with React, Next.js, Spring Boot, Flask, Docker, Jenkins, and AWS.
 
-### 🚀 About Me  
-🎓 **Computer Science @ University of Illinois Chicago**  
-👨‍🏫 **Head Teaching Assistant for CS 251 (Data Structures)**  
-💡 **Aspiring Software Engineer | Quantitative Developer**  
-⚡ **Passionate about 🤖 IoT Solutions**, 🏥 **MedTech**, 🎮 **Game development**
-
-A rising **Junior**, I enjoy tackling **complex real-world problems** through **innovative solutions, and scalable architectures**. My experience spans **Full-Stack Development, Software Testing, and UI Design**. I’m actively seeking internship opportunities in **Software Engineering** or **Quantitative Development** to apply my skills and expand my knowledge.
-
-### ⚙️ Backend 
-![Python](https://github.com/user-attachments/assets/a2a4c596-44cc-4697-8044-e3c0bacd2e3e) ![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000) ![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000) ![C++](https://img.icons8.com/?size=100&id=40669&format=png&color=000000) ![PHP](https://img.icons8.com/?size=100&id=YrKoPXb4jv9l&format=png&color=000000) ![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000) ![SQL](https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000)
-
-### 🎨 Frontend 
-![React](https://img.icons8.com/?size=100&id=123603&format=png&color=000000) ![Angular](https://img.icons8.com/?size=100&id=71257&format=png&color=000000) ![HTML5](https://img.icons8.com/?size=100&id=20909&format=png&color=000000) ![CSS3](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
-
-### 🌐 Libraries & Frameworks  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-7D4F3C?style=for-the-badge&logo=hibernate&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-144F72?style=for-the-badge&logo=python&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-7A4AC3?style=for-the-badge&logo=mockingbird&logoColor=white) ![PHPMailer](https://img.shields.io/badge/PHPMailer-0077B5?style=for-the-badge&logo=php&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=oracle&logoColor=white) ![gPhoto2](https://img.shields.io/badge/gPhoto2-0A0A0A?style=for-the-badge&logo=gnome&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-0072BC?style=for-the-badge&logo=ffmpeg&logoColor=white)
-
-### 🛠 Tools & Technologies  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) ![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-
+I'm especially interested in B2B product engineering, full stack development, cloud platforms, and applied machine learning. I like roles where I can own features end to end and work closely with other engineers to ship reliable, production-ready systems.
 
 ---
 
-### 👾 Projects
-Check out some of my **projects**:
+## Most recently at Protegrity
 
-🏥 [**Medicine Scheduling Application**](https://github.com/YOUR_GITHUB_USERNAME/IPageRepo)
+As one of four engineers on the team, I took a Chrome extension from proof of concept to general availability. The extension integrates with Protegrity's cloud data encryption service to give users policy-based access to sensitive data (PII, PHI) directly on the webpages they work in.
 
-🚢 [**Battleship Game**](https://github.com/YOUR_GITHUB_USERNAME/ZillionHolidaysRepo)
+- Owned front-end features, turning UI/UX specs and PM requirements into production **React** and **TypeScript** code
+- Built a **Jenkins** CI/CD pipeline that runs unit tests, code-quality checks (**SonarQube**), and security scans (**JFrog Xray**) before publishing to an artifact registry
+- Wrote a **Pytest** and **Selenium** end-to-end suite covering 11 critical user workflows, catching bugs before they reached customers
 
----
+This Chrome extension is now used by large enterprises like Blue Cross Blue Shield, HSBC, and Plaid.
 
-### 📽 Work Experience Samples
-Check out some of my **internship work**:
+**Product Demo:** https://www.protegrity.com/blog/protegrity-browser-protector/
 
-🏗️ [**IPage Unmanned Services - Software Engineer Intern**](https://github.com/YOUR_GITHUB_USERNAME/IPageRepo)
-
-✈️ [**Zillion Holidays - Backend Developer Intern**](https://github.com/YOUR_GITHUB_USERNAME/ZillionHolidaysRepo)
+**Documentation:** https://docs.protegrity.com/browser-protector/1.1.0/docs/overview/solution_overview/
 
 ---
 
-📫 **Reach out to me!** Always happy to connect and collaborate. 🚀
+## Selected Projects
+
+### MedTrack
+A full stack medication management platform that brings dose scheduling, adherence tracking, and prescription inventory together in one place, with a RAG assistant for source-grounded answers about your own health records.
+
+`Next.js` `PostgreSQL` `MongoDB` `RAG` `Cron` `Nodemailer`
+
+[Repository](LINK_TO_MEDTRACK_REPO) · [Live Demo](LINK_TO_MEDTRACK_DEMO)
+
+### Autonomous Debris Clearing Rover
+An AI-driven rover that uses real-time computer vision to detect and clear debris within a set perimeter, controllable from a Flutter mobile app with a live camera feed.
+
+`Python` `Flutter` `OpenCV` `YOLOv3` `GraphQL` `Raspberry Pi`
+
+[Repository](LINK_TO_ROVER_REPO) · [Demo Video](LINK_TO_ROVER_DEMO)
+
+### Restockd
+*One line description coming soon.*
+
+`TECH_STACK_PLACEHOLDER`
+
+[Repository](LINK_TO_RESTOCKD_REPO) · [Live Demo](LINK_TO_RESTOCKD_DEMO)
+
+---
+
+## Previously
+
+- **Teaching Assistant, Data Structures and Algorithms (C++), UIC:** Mentored 800+ students through labs and office hours, supported debugging with GDB and Valgrind, and helped build autograded test suites.
+- **Software Engineer Intern, IPage Unmanned Services:** Built a construction site timelapse system using Raspberry Pi, AWS S3, a Flask backend on EC2, FFmpeg, and a React client portal.
+- **Software Engineer Intern, Zillion Holidays:** Built Angular interfaces and Spring Boot REST services for a travel agency product suite, with JUnit, Mockito, and Cypress tests.
+
+---
+
+## Tech
+
+**Languages:** Python, Java, TypeScript, JavaScript, C++, Bash, SQL
+
+**Frameworks:** Next.js, React, Angular, Flutter, Spring Boot, Flask, Django, Express.js
+
+**Testing:** Jest, Pytest, unittest, JUnit, Mockito, Selenium, Cypress
+
+**Tools and Platforms:** AWS, Linux, Docker, Jenkins, Git, PostgreSQL, MongoDB, Claude Code, Codex
+
+---
+
+## Get in touch
+
+[LinkedIn](https://linkedin.com/in/anupamsistla) · [Portfolio](https://anupamsistla.com) · [Email](mailto:sistlaanupam@gmail.com)
