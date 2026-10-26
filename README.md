@@ -54,7 +54,7 @@ Food Bank Donation Scheduling Platform connecting donors with local food banks t
 
 - **Teaching Assistant, Data Structures and Algorithms (C++), UIC:** Mentored 800+ students through labs and office hours, supported debugging with GDB and Valgrind, and helped build autograded test suites.
 - **Software Engineer Intern, IPage Unmanned Services:** Built a construction site timelapse system using Raspberry Pi, AWS S3, a Flask backend on EC2, FFmpeg, and a React client portal.
-- **Software Engineer Intern, Zillion Holidays:** Built Angular interfaces and Spring Boot REST services for a travel agency product suite, with JUnit, Mockito, and Cypress tests.
+- **Software Engineer Intern, Zillion Holidays:** Built AngularJS interfaces and Spring Boot REST services for a travel agency product suite, with JUnit, Mockito, and Cypress tests.
 
 ---
 
